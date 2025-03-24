@@ -1,0 +1,6 @@
+# https://stackoverflow.com/a/987162
+*
+!.gitignore
+!/Account/
+!/.obsidian/community-plugins.json
+!*/
